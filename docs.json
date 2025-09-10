@@ -29,7 +29,13 @@
             "pages": [
               "police/leadership",
               "police/department-ranks",
+            ]
+          },
+          {
+            "group": "Handbook",
+            "pages": [
               "police/core-values",
+              "police/necessary-guidelines",
               "police/penal-codes"
             ]
           }
