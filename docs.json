@@ -27,6 +27,7 @@
           {
             "group": "Information",
             "pages": [
+              "police/about",
               "police/leadership",
               "police/department-ranks"
             ]
