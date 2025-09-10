@@ -22,6 +22,17 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Fresno Police",
+        "groups": [
+          {
+            "group": "Information",
+            "pages": [
+              "police/penal-codes"
+            ]
+          }
+        ]
       }
     ],
     "global": {
