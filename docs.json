@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Fresno Roleplay Help",
   "colors": {
-    "primary": "#FFFFFF",
-    "light": "#000000",
-    "dark": "#FFFFFF"
+    "primary": "#2128FB",
+    "light": "#2128FB",
+    "dark": "#2128FB"
   },
   "favicon": "/favicon.svg",
   "navigation": {
