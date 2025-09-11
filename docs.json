@@ -32,16 +32,7 @@
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Discord Server",
-          "href": "https://fresno.gg/discord",
-          "icon": "right-to-bracket"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
     "light": "https://scdn.cactusian.com/library/fresno/logoLongBlack.png",
