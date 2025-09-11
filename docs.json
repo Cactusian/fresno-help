@@ -7,9 +7,20 @@
     "light": "#FFFFFF",
     "dark": "#000000"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "http://scdn.cactusian.com/library/fresno/favicon.ico",
   "navigation": {
     "tabs": [
+      {
+        "tab": "Home",
+        "groups": [
+          {
+            "group": "Home",
+            "pages": [
+              "index"
+            ]
+          }
+        ]
+      },
       {
         "tab": "Fresno Police",
         "groups": [
