@@ -51,6 +51,17 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Fresno Sheriff",
+        "groups": [
+          {
+            "group": "INFORMATION",
+            "pages": [
+              "sheriff/about"
+            ]
+          }
+        ]
       }
     ]
   },
