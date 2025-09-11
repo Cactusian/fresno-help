@@ -14,7 +14,7 @@
         "tab": "Home",
         "groups": [
           {
-            "group": "Fresno Roleplay",
+            "group": "FRESNO ROLEPLAY",
             "pages": [
               "index"
             ]
@@ -25,7 +25,7 @@
         "tab": "Fresno Police",
         "groups": [
           {
-            "group": "Information",
+            "group": "INFORMATION",
             "pages": [
               "police/about",
               "police/leadership",
@@ -33,7 +33,7 @@
             ]
           },
           {
-            "group": "Handbook",
+            "group": "HANDBOOK",
             "pages": [
               "police/core-values",
               "police/necessary-guidelines",
@@ -46,6 +46,7 @@
               "police/internal-investigation-cooperation",
               "police/priorities-of-life",
               "police/pursuit-policies",
+              "police/use-of-force",
               "police/penal-codes"
             ]
           }
