@@ -12,14 +12,7 @@
     "tabs": [
       {
         "tab": "Home",
-        "groups": [
-          {
-            "group": "FRESNO ROLEPLAY",
-            "pages": [
-              "index"
-            ]
-          }
-        ]
+        "href": "/"
       },
       {
         "tab": "Fresno Police",
