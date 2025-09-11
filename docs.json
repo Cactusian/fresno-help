@@ -12,7 +12,7 @@
     "tabs": [
       {
         "tab": "Home",
-        "href": "/"
+        "pages": ["index"]
       },
       {
         "tab": "Fresno Police",
