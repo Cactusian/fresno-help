@@ -11,17 +11,6 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
-        "groups": [
-          {
-            "group": "Getting started",
-            "pages": [
-              "index"
-            ]
-          }
-        ]
-      },
-      {
         "tab": "Fresno Police",
         "groups": [
           {
@@ -47,9 +36,9 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "anchor": "Discord Server",
+          "href": "https://fresno.gg/discord",
+          "icon": "right-to-bracket"
         }
       ]
     }
