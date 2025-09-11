@@ -43,6 +43,7 @@
               "police/default-responses",
               "police/supervisory-promotions",
               "police/mandatory-reporters",
+              "police/internal-investigation-cooperation",
               "police/penal-codes"
             ]
           }
