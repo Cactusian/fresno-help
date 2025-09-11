@@ -42,6 +42,7 @@
               "police/engagement",
               "police/default-responses",
               "police/supervisory-promotions",
+              "police/mandatory-reporters",
               "police/penal-codes"
             ]
           }
