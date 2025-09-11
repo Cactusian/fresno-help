@@ -40,6 +40,8 @@
               "police/representation",
               "police/communication",
               "police/engagement",
+              "police/default-responses",
+              "police/supervisory-promotions",
               "police/penal-codes"
             ]
           }
