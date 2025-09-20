@@ -108,14 +108,6 @@
     "light": "https://scdn.cactusian.com/library/fresno/logoLongBlack.png",
     "dark": "https://scdn.cactusian.com/library/fresno/logoLongWhite.png"
   },
-  "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "https://discord.gg/abdkhpNmE4"
-      }
-    ]
-  },
   "footer": {
     "socials": {
       "x": "https://fresno.gg/x",
