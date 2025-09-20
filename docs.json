@@ -101,6 +101,17 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Caltrans",
+        "groups": [
+          {
+            "group": "INFORMATION",
+            "pages": [
+              "dot/about"
+            ]
+          }
+        ]
       }
     ]
   },
