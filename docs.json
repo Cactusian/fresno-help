@@ -57,6 +57,17 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Highway Patrol",
+        "groups": [
+          {
+            "group": "INFORMATION",
+            "pages": [
+              "chp/about"
+            ]
+          }
+        ]
       }
     ]
   },
