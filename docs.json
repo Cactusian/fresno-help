@@ -70,12 +70,23 @@
         ]
       },
       {
-        "tab": "Homeland Security",
+        "tab": "DHS",
         "groups": [
           {
             "group": "INFORMATION",
             "pages": [
               "dhs/about"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "FBI",
+        "groups": [
+          {
+            "group": "INFORMATION",
+            "pages": [
+              "fbi/about"
             ]
           }
         ]
