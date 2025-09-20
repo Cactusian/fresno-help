@@ -90,6 +90,17 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Fresno Fire",
+        "groups": [
+          {
+            "group": "INFORMATION",
+            "pages": [
+              "fire/about"
+            ]
+          }
+        ]
       }
     ]
   },
