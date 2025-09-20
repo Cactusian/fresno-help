@@ -68,6 +68,17 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Homeland Security",
+        "groups": [
+          {
+            "group": "INFORMATION",
+            "pages": [
+              "dhs/about"
+            ]
+          }
+        ]
       }
     ]
   },
