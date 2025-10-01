@@ -121,7 +121,8 @@
             "pages": [
               "staff/callsigns",
               "staff/staff-players-balance",
-              "staff/mod-calls"
+              "staff/mod-calls",
+              "staff/server-wide-announcements"
             ]
           }
         ]
