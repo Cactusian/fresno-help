@@ -112,6 +112,18 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Staff",
+        "groups": [
+          {
+            "group": "HANDBOOK",
+            "pages": [
+              "staff/callsigns",
+              "staff/staff-players-balance"
+            ]
+          }
+        ]
       }
     ]
   },
