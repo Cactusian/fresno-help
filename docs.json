@@ -81,17 +81,6 @@
         ]
       },
       {
-        "tab": "FBI",
-        "groups": [
-          {
-            "group": "INFORMATION",
-            "pages": [
-              "fbi/about"
-            ]
-          }
-        ]
-      },
-      {
         "tab": "Fresno Fire",
         "groups": [
           {
