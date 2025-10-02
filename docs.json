@@ -125,6 +125,12 @@
               "staff/mod-calls",
               "staff/server-wide-announcements"
             ]
+          },
+          {
+            "group": "DEPARTMENTS",
+            "pages": [
+              "staff/department-leader-terms"
+            ]
           }
         ]
       }
