@@ -70,28 +70,6 @@
         ]
       },
       {
-        "tab": "DHS",
-        "groups": [
-          {
-            "group": "INFORMATION",
-            "pages": [
-              "dhs/about"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "FBI",
-        "groups": [
-          {
-            "group": "INFORMATION",
-            "pages": [
-              "fbi/about"
-            ]
-          }
-        ]
-      },
-      {
         "tab": "Fresno Fire",
         "groups": [
           {
